@@ -8,9 +8,8 @@ A simple Tic-Tac-Toe game built in C++ where you can play against the computer.
 - Terminal-based interface.
 - Multiplayer mode (input 'm' instead of 'y' at the start)
 
-## Tech Stack
-- **Language:** C++  
-- **Compiler:** g++ 
+## Details
+Built using C++ in VSCode. This was a personal project to help teach myself C++ fundamentals over the summer.
 
 
 
